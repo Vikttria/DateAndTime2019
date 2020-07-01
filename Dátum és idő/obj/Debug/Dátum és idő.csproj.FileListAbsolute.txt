@@ -1,0 +1,15 @@
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\bin\Debug\Dátum és idő.exe.config
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\bin\Debug\Dátum és idő.exe
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\bin\Debug\Dátum és idő.pdb
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum és idő.csprojAssemblyReference.cache
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum_és_idő.Form1.resources
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum_és_idő.Properties.Resources.resources
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum és idő.csproj.GenerateResource.cache
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum és idő.csproj.CoreCompileInputs.cache
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum és idő.exe
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum és idő.pdb
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum_és_idő.Form2.resources
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum_és_idő.Form4.resources
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum_és_idő.Form3.resources
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum_és_idő.Form5.resources
+C:\Users\viktt\Documents\tanulás\programozás\C#\2018,12,téli szüneti feladat\Dátum és idő\Dátum és idő\obj\Debug\Dátum_és_idő.Form6.resources
